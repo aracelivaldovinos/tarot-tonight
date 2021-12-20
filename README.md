@@ -2,6 +2,8 @@
 ### by [John Blalock](https://github.com/simpledimplejohn), [Erika Debelis](https://github.com/ErikaDebelis), [Maxwell Meyer](https://github.com/maxwellmeyer), [James Benjamin Pawlik](https://github.com/jbpawlik), and [Araceli Valdovinos](https://github.com/aracelivaldovinos)
 ### Tarot pixel art is by Matthew Valente
 
+![tarot_tonight](tarot_image.png)
+
 ### __Description__
 Tarot Tonight is a divination app that deals three cards to the user. It then makes calls to several different APIs to retrieve information related to the cards.
 
